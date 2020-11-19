@@ -1,4 +1,4 @@
-# <h1 align="center">![Hmmm Gostoso!](.github/logo.svg)</h1>
+# <h1 align="center">![Hmmm Gostoso!]</h1>
 
 Projeto desenvolvido para o desafio de Desenvolvedor da RG SISTEMAS
 
